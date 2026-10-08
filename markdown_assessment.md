@@ -33,3 +33,15 @@ if (total > 10) {
 }
 ```
 ---
+## What Customers Are Saying
+"Best chopped cheese in East Harlem, and the **free cookie** deal is *genius*!"
+
+---
+## Find Us Online
+Follor our daily location on [Instagram](https://www.instagram.com/), or read our reviews on [Yelp](https://www.yelp.com/nyc).
+Want to build an app like oura? Start learning here:
+
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+---
+```js `git push orgin main` - the command we run every time we add a new item to the menu!
